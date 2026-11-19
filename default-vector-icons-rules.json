@@ -1,0 +1,14 @@
+[
+  // {
+  //   "match": ["org.example.triangle-up"],
+  //   "width": 16,
+  //   "height": 16,
+  //   "path": "M8 1 L15 15 H1 Z"
+  // },
+  // {
+  //   "match": ["org.example.triangle-down"],
+  //   "width": 16,
+  //   "height": 16,
+  //   "path": "M1 1 H15 L8 15 Z"
+  // }
+]

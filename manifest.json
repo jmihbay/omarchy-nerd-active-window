@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "jmihbay.nerd-active-window",
+  "name": "Nerd Font Active App",
+  "version": "1.0.0",
+  "author": "jmihbay",
+  "license": "GPL-3.0-only",
+  "description": "Monochrome active-application glyph using Nerd Fonts and the current Omarchy theme.",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "BarWidget.qml"},
+  "barWidget": {"displayName": "Nerd Font Active App", "description": "Active app icon without a title", "category": "Compositor", "allowMultiple": false, "defaultSection": "left"}
+}

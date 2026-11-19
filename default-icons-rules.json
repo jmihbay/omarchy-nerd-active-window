@@ -1,0 +1,16 @@
+[
+  {"match": ["telegram"], "codepoint": "E217"},
+  {"match": ["steam"], "codepoint": "ED29"},
+  {"match": ["chatgpt", "codex", "org.omarchy.agent"], "codepoint": "F06A9"},
+  {"match": ["foot", "alacritty", "kitty", "ghostty", "wezterm", "konsole", "terminal", "xterm", "ptyxis", "com.raggesilver.blackbox", "org.gnome.console", "tilix", "terminator", "yakuake", "xfce4-terminal", "mate-terminal", "lxterminal", "qterminal", "urxvt"], "codepoint": "F489"},
+  {"match": ["firefox", "librewolf", "zen-browser", "waterfox", "floorp", "app.zen_browser.zen", "zen-beta", "org.mozilla.nightly"], "codepoint": "F269"},
+  {"match": ["chromium", "chrome", "brave", "vivaldi", "browser", "microsoft-edge", "com.microsoft.edge", "com.opera.", "opera-stable", "opera-developer", "opera-beta", "org.kde.falkon", "org.gnome.epiphany", "qutebrowser", "thorium-browser"], "codepoint": "F268"},
+  {"match": ["code", "codium", "zed", "neovim", "nvim", "emacs", "sublime_text", "sublime-text", "jetbrains-", "com.jetbrains.", "geany", "org.kde.kate", "dev.zed.zed", "org.eclipse.ide", "org.gnome.texteditor", "notepadqq"], "codepoint": "F121"},
+  {"match": ["nautilus", "thunar", "dolphin", "nemo", "pcmanfm", "doublecmd", "doublecommander", "krusader", "org.kde.index"], "codepoint": "F07B"},
+  {"match": ["obsidian"], "codepoint": "F249"},
+  {"match": ["spotify"], "codepoint": "F1BC"},
+  {"match": ["discord", "vesktop"], "codepoint": "F1FF"},
+  {"match": ["amnezia"], "codepoint": "F023"},
+  {"match": ["vlc", "mpv", "celluloid", "haruna", "smplayer", "qmplay2", "totem", "org.gnome.showtime", "kodi", "org.kde.dragonplayer"], "codepoint": "F144"},
+  {"match": ["windows", "freerdp", "xfreerdp", "remmina", "org.gnome.connections", "com.usebottles.bottles"], "codepoint": "F17A"}
+]
